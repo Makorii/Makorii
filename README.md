@@ -1,6 +1,6 @@
 <h1 align="Center">  Hola!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />  </h1>
 <h2 align="Center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Soy Marcela Duran <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
-<div align="center"><img width="500" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"/></div>
+<div align="center"><img width="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZmazlscHJtbmp1c3cxNzlodG14OGJ0ZmNxdHl2NHUxN2k2bHl6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1wn6Y55yNsibjxbzjo/giphy.gif"/></div>
 
 <div>
   <h3> 💻 Conocimientos </h3>
